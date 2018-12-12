@@ -21,6 +21,13 @@ As well as bold and italics, you can also use some other special formatting in M
 + \*escaped characters\*
 
 
+~~strike through~~
+
+
+==highlight==
+
+\*escaped characters\*
+ 
 ## Writing code blocks
 
 There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:

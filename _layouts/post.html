@@ -25,29 +25,28 @@ post_class: post-template
                 <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row post-top-meta">
-<!--
 					<div class="col-md-2">
 						<img class="author-thumb" src="{{ site.baseurl }}/{{ author.image }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
 					</div>
--->
+                    <p></p>
 					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a><br>
 						<span class="author-description">{{ author.description }}</span>						
 					</div>
 				</div>				
                 {% endif %}
                 
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
+				<h1 class="posttitle" >{{ page.title }}</h1> 
                 
 			</div>
 
 			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
+<!--			{% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}-->
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
-			<div class="article-post">
+			<div class="article-post" style="color:darkslategray">
 				{{content}}
 			</div>
 

@@ -1,36 +1,17 @@
 ---
 layout: post
-title:  "치앙마이 점심메뉴 추천"
+title:  "치앙마이 저려미 점심 메뉴판"
 author: jeongkoo
 categories: [ food, chianmai ]
-image: assets/images/181208_lunch_menu.png
+image: assets/images/181208_changmai_lunch_menu/lunch_menu_feature.jpeg
 featured: true
 hidden: true
 ---
 
-### Noodle & Rice 
+#저렴 #익숙한맛         
 
-- df
-- df
-- df 
+### 즐겨먹는 점심 메뉴판 :D
 
+![cafe]({{ site.baseurl }}/assets/images/181208_changmai_lunch_menu/lunch_menu_panel.png)
 
-
-```ruby
-# Install Jekyll and Bundler gems through RubyGems
-gem install jekyll bundler
-
-# Create a new Jekyll site at ./myblog
-jekyll new myblog
-
-# Change into your new directory
-cd myblog
-
-# Build the site on the preview server
-bundle exec jekyll serve
-
-# Now browse to http://localhost:4000
-```
-
-
-image: assets/images/dinner_1.jpg
+계속 업데이트 예정~~~ 

@@ -57,4 +57,3 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-slate

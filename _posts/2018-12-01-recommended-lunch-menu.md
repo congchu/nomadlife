@@ -14,7 +14,6 @@ hidden: true
 - df
 - df 
 
-{% youtube post.video %}. 
 
 
 ```ruby

@@ -41,7 +41,6 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
-  - jekyll-sitemap
     
 # Archives
 jekyll-archives:

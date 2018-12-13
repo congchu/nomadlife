@@ -13,7 +13,7 @@ hidden: true
 #### Greenery Landmark
 
 ![greenery]({{ site.baseurl }}/assets/images/181212_collecting_homes_info/greenery.png)
- [greenery]({{ https://goo.gl/maps/UXeu3Q2ZDMq}})
+[greenery]( https://goo.gl/maps/UXeu3Q2ZDMq)
 
 #### Umong Park
 

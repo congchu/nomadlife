@@ -5,7 +5,7 @@ comments: false
 ---
 
 
-### 날씨가 이렇게 좋은데 문제가 무어야
+### 아이고 날씨 좋다
 
 ![bluesky]({{site.baseurl}}/assets/images/about/bluesky.png){: .shadow}
 

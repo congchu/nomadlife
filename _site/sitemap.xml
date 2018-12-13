@@ -1,19 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sitemap>
-		<loc>http://localhost:4000/post-sitemap.xml</loc>
-		<lastmod>2018-12-13T16:53:46+07:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>http://localhost:4000/page-sitemap.xml</loc>
-		<lastmod>2018-12-13T16:53:46+07:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>http://localhost:4000/project-sitemap.xml</loc>
-		<lastmod>2018-12-13T16:53:46+07:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>http://localhost:4000/category-sitemap.xml</loc>
-		<lastmod>2018-12-13T16:53:46+07:00</lastmod>
-	</sitemap>
-</sitemapindex>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/11/customer-service.html</loc>
+<lastmod>2018-01-11T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/11/quick-start-guide.html</loc>
+<lastmod>2018-01-11T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/12/is-intelligence-enough.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/2018/01/12/never-stopped-worrying-never-loved-bomb.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/12/press-and-education.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/12/red-riding.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/12/tree-of-codes.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</loc>
+<lastmod>2018-01-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/2018/05/12/about-bundler.html</loc>
+<lastmod>2018-05-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/06/12/acumulated-experience.html</loc>
+<lastmod>2018-06-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/06/12/education.html</loc>
+<lastmod>2018-06-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/06/12/first-mass-produced.html</loc>
+<lastmod>2018-06-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</loc>
+<lastmod>2018-06-12T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/cafe/chianmai/work/2018/11/20/recommended-working-place.html</loc>
+<lastmod>2018-11-20T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/house/chianmai/2018/12/01/cheat-house.html</loc>
+<lastmod>2018-12-01T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/trip/chianmai/2018/12/01/chiangmai-trip-movie.html</loc>
+<lastmod>2018-12-01T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/food/chianmai/2018/12/01/recommended-lunch-menu.html</loc>
+<lastmod>2018-12-01T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/about.html</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/about_backup.html</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/jekyll/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/tutorial/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/cafe/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/chianmai/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/work/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/house/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/trip/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/category/food/</loc>
+</url>
+<url>
+<loc>https://congchu.github.io/nomadlife/page2/</loc>
+</url>
+</urlset>

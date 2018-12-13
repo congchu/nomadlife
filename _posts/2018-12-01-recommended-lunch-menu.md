@@ -12,6 +12,6 @@ hidden: true
 
 ### 즐겨먹는 점심 메뉴판 :D
 
-![cafe]({{ site.baseurl }}/assets/images/181208_changmai_lunch_menu/lunch_menu_panel.png)
+![cafe]({{site.baseurl}}/assets/images/181208_changmai_lunch_menu/lunch_menu_panel.png)
 
 계속 업데이트 예정~~~ 
